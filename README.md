@@ -1,4 +1,3 @@
-Markdown
 
 # Data Querying AI Agent (using Gemini)
 
