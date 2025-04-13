@@ -91,13 +91,3 @@ You can also try more complex questions that might involve Pandas:
 
 **Remember, all interaction happens directly within your terminal.**
 
-## Project Structure
-
-data-querying-agent/
-├── data_loader.py     # Loads data into Pandas DataFrame and SQLite
-├── tools.py           # Defines the Pandas and SQL query tools for the agent
-├── agent_setup.py     # Sets up the LangChain agent with tools and memory
-├── main.py            # Main script to run the agent and handle user interaction (in terminal)
-├── requirements.txt   # Lists the Python dependencies
-├── .gitignore         # Specifies files to ignore in Git
-└── README.md          # This file
