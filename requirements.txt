@@ -1,0 +1,6 @@
+langchain
+pandas
+sqlalchemy
+google-generativeai
+langchain-google-genai
+langchain-community
