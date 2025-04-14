@@ -1,0 +1,7 @@
+department,employee_id,salary
+Sales,1,50000
+Sales,2,60000
+Marketing,3,55000
+Engineering,4,70000
+Engineering,5,75000
+Finance,6,65000
